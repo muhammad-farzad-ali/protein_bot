@@ -1,0 +1,5 @@
+.env
+prices_state.json
+price_check.log
+__pycache__/
+*.pyc
